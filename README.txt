@@ -42,6 +42,6 @@ Features include:
 - Monthly time slider (sliding window)
 = Bear-specific movement paths
 - Hover highlight (point enlargement + other points dim)
-- Filter by bear ID
+- Filter by bear ID (click on the color square in the legend)
 - Municipal borders for reference ('data/slovenia_municipalities.geojson')
 
