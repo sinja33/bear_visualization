@@ -32,7 +32,6 @@ To prepare the dataset for visualization, I preprocessed the data using the pyth
     2. Only the following keys were kept:
     time, lat, lon, bear_id
     3. Normalized timestamps - converted to YYYY-MM-DD format
-    4. Sorted all points chronologically
 
 
 VISUALIZATION
