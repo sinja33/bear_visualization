@@ -1,0 +1,24 @@
+tag-id,animal-id,animal-taxon,deploy-on-date,deploy-off-date,animal-sex,tag-comments,tag-manufacturer-name,tag-model
+jana,jana,Ursus arctos,1993-05-04 00:00:00.000,1994-11-07 00:00:00.000,f,,Telonics,MOD-600
+metka,metka,Ursus arctos,1994-03-24 00:00:00.000,1994-09-26 00:00:00.000,f,,Telonics,MOD-600
+clio,clio,Ursus arctos,1994-03-26 00:00:00.000,1994-05-31 00:00:00.000,m,Eartag transmitter,Televilt,
+janko,janko,Ursus arctos,1994-03-28 00:00:00.000,1994-07-05 00:00:00.000,m,,Telonics,MOD-600
+mishko,mishko,Ursus arctos,1994-04-07 00:00:00.000,1998-04-10 00:00:00.000,m,,Telonics,MOD-600
+ancka,ancka,Ursus arctos,1994-04-23 00:00:00.000,1999-09-29 00:00:00.000,f,,Telonics,MOD-600
+jure,jure,Ursus arctos,1994-11-16 00:00:00.000,1995-03-27 00:00:00.000,m,,Telonics,MOD-600
+urosh,urosh,Ursus arctos,1995-04-05 00:00:00.000,1995-05-31 00:00:00.000,m,,Telonics,MOD-400
+milan,milan,Ursus arctos,1995-04-16 00:00:00.000,1995-04-29 00:00:00.000,m,,Telonics,MOD-400
+maja,maja,Ursus arctos,1995-04-23 00:00:00.000,1997-06-20 00:00:00.000,f,,Telonics,MOD-600
+vera,vera,Ursus arctos,1996-10-05 00:00:00.000,1997-06-12 00:00:00.000,f,,Telonics hair mount transmitter,MOD-225
+lucia,lucia,Ursus arctos,1996-10-18 00:00:00.000,1997-10-08 00:00:00.000,f,,,
+vinko,vinko,Ursus arctos,1996-10-31 00:00:00.000,1997-05-20 00:00:00.000,m,,Holohil eartag transmitter,EL-2(42)
+srecko,srecko,Ursus arctos,1997-03-27 00:00:00.000,1997-11-01 00:00:00.000,m,,Telonics,MOD-400
+vanja,vanja,Ursus arctos,1997-04-21 00:00:00.000,1998-04-08 00:00:00.000,f,,Holohil eartag transmitter,EL-2(42)
+dusan,dusan,Ursus arctos,1997-05-04 00:00:00.000,1997-07-12 00:00:00.000,m,,Holohil - eartag transmitter,EL-2(42)
+joze,joze,Ursus arctos,1998-03-18 00:00:00.000,1998-05-03 00:00:00.000,m,,Holohil eartag transmitter,EL-2(29)
+nejc,nejc,Ursus arctos,1998-03-23 00:00:00.000,1999-03-06 00:00:00.000,m,,Holohil eartag transmitter,EL2(29)
+polona,polona,Ursus arctos,1998-04-06 00:00:00.000,1999-09-15 00:00:00.000,f,,Telonics,MOD-400
+klemen,klemen,Ursus arctos,1998-04-07 00:00:00.000,1998-10-18 00:00:00.000,m,,Telonics,MOD-400
+ivan,ivan,Ursus arctos,1998-04-14 00:00:00.000,1998-04-27 00:00:00.000,m,,Telonics,MOD-600
+dinko,dinko,Ursus arctos,1998-08-31 00:00:00.000,1998-11-10 00:00:00.000,m,,Telonics,MOD-400
+,krabat,Ursus arctos,,,m,,,
