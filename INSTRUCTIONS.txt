@@ -1,57 +1,27 @@
-How to Run the Brown Bear Visualization
+NOTE: This project is also deployed on this site: https://sinja33.github.io/bear_visualization/
 
-This project uses local data files (.json and .geojson).
-For security reasons, modern browsers do not allow these files to load correctly if you open index.html by double-clicking it.
+Instructions on how to run this project locally
 
-To view the visualization properly, please run a small local server.
-There are two simple options:
+There are two options:
 
-Option 1 (Recommended): Use VS Code Live Server
+Option 1: Use VS Code Live Server
 
-Open the project folder in Visual Studio Code
-
-Install the extension “Live Server” (if not installed)
-
-Right-click the file index.html
-
-Choose “Open with Live Server”
-
-The visualization will open automatically in your browser.
+    1. Open the project folder in Visual Studio Code
+    2. Install the extension “Live Server”
+    3. Right-click the file index.html
+    4. Choose “Open with Live Server”
+    5. The visualization will open in your browser.
 
 Option 2: Use Python’s Built-In Web Server
 
-If you prefer running from the terminal:
+    1. Open a terminal / command prompt
+    2. Navigate to the project folder:
+    3. cd path/to/the/project
+    4. Type in:
 
-Open a terminal / command prompt
+`python -m http.server`
 
-Navigate to the project folder:
-
-cd path/to/the/project
-
-
-Start a local server:
-
-python -m http.server
-
-
-Open the following address in your browser:
+    5. Open the this link in your browser:
 
 http://localhost:8000
 
-That’s it!
-
-The visualization should now load correctly, including:
-
-interactive map
-
-bear movement data
-
-municipality boundaries
-
-monthly time slider
-
-hover highlights
-
-bear path toggle
-
-If you have any issues opening the project, please contact me.
